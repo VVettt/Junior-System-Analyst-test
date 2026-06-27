@@ -1,5 +1,5 @@
 Задание 1.
-```json
+```http
 GET /api/v1/stores
 Host: api.petrushka.ru
 Authorization: Bearer {token}
