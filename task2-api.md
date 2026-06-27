@@ -5,6 +5,8 @@ GET /api/v1/stores
 
    
 Задание 2. 
+
+```json
 {
   "stores": [
     {
@@ -45,4 +47,4 @@ GET /api/v1/stores
     }
   ]
 }
-
+```
