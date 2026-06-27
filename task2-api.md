@@ -1,7 +1,10 @@
-1. GET /api/v1/stores
+Задание 1.
+GET /api/v1/stores
    Host: api.petrushka.ru
    Authorization: Bearer {token}
-2. 
+
+   
+Задание 2. 
 {
   "stores": [
     {
